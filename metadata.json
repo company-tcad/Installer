@@ -1,0 +1,6 @@
+{
+  "name": "Acode APK Companion & Installer",
+  "description": "Minimalist APK configurator, manifest generator (C++ and React), and simulated installer integrated with GitHub raw data hosting for dynamic updates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
